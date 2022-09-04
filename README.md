@@ -1,21 +1,22 @@
 # Dashboard: Graded Task 1
 
-This will be the first graded task of your CS 303(P) Lab. In this task you would be creating a portfolio using the concepts learnt in labs. You would learn how to create forks, switch branches and send Pull Requests. The details regarding making portfolio is shared on LMS. The submission details are also in the v2 in LMS. This repository would act as the submission point for your portfolio. Read ahead carefully to understand the details.
+This will be the first graded task of your CS 303(P) Lab. In this task you would be creating a portfolio using the concepts learnt in labs. You would learn how to create forks, switch branches and send Pull Requests. The details regarding making portfolio is shared on LMS. The submission details are also in the file on LMS. This repository would act as the submission point for your portfolio. Read ahead carefully to understand the details.
 
 ## Step 1: Fork the Repository
 
-- Click on the fork button which is present on the top right of the [repository dashboard](https://github.com/CS-303-P-Software-Engineering-Lab/dashboard).
+- Click on the fork button which is present on the top right of the [repository dashboard](https://github.com/CS-303-P-Software-Engineering-Lab/dashboard-imt20).
 - You will now have your personal fork.
 
 ## Step 2: Commit changes
 - Find the `.json` file name corresponding to your roll number in the `data/jsons` folder.
-    - For example if your roll number is `IMT2019001`, the file you are looking for is in the path `data/jsons/IMT2019001.json`
+    - For example if your roll number is `IMT2020001`, the file you are looking for is in the path `data/jsons/IMT2019001.json`
 - Change the details in your corresponding JSON files. The details asked in the JSON files are
     - name: Your name.
     - github_link: Your portfolio's github link.
     - website_link: Your portfolio's link. Make sure it is in the format `http://<website url>.domain` or `https://<website url>.domain`
         - Valid URLs: `http://octocat.github.io/`, `https://www.google.com`
         - Invalid URL format: `www.google`, `google.com`, `www.google.com`
+- A [sample JSON](https://github.com/CS-303-P-Software-Engineering-Lab/dashboard-imt20/blob/dev/data/sample.json) has been included in the `data/sample.json` file for reference.
 - Commit the file.
 
 ## Step 3: Send a Pull Request
@@ -27,7 +28,7 @@ This will be the first graded task of your CS 303(P) Lab. In this task you would
 ## Check your changes
 - Once you have performed all these changes, the PR will be merged within 24 hrs.
 - Do get in touch with the TAs if your PR has not been merged within 24 hrs.
-- If your PR is merged, you should be able to see the changes on the website within 1 min.
-- Once you have done all these, checkout your friends' portfolios on [imt2019.vercel.app](https://imt2019.vercel.app)
+<!-- - If your PR is merged, you should be able to see the changes on the website within 1 min.
+- Once you have done all these, checkout your friends' portfolios on [imt2019.vercel.app](https://imt2019.vercel.app) -->
 
-PS: Mobile Users please pardon my CSS
+<!-- PS: Mobile Users please pardon my CSS -->
