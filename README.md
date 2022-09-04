@@ -22,7 +22,7 @@ This will be the first graded task of your CS 303(P) Lab. In this task you would
 ## Step 3: Send a Pull Request
 - Come back to the forked repo's dashboard.
 - You will find a `Contribute` button. Click on Open Pull Request.
-- Send pull request to the `dev` branch of the [repository dashboard](https://github.com/CS-303-P-Software-Engineering-Lab/dashboard).
+- Send pull request to the `dev` branch of the [repository dashboard](https://github.com/CS-303-P-Software-Engineering-Lab/dashboard-imt20).
 - Click on Pull Request and add comments if you like to.
 
 ## Check your changes
